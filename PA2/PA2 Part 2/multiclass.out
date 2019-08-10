@@ -1,0 +1,36 @@
+Clear smile data: 3 class classification
+(609, 2)
+(3, 2)
+(609, 3)
+(3, 3)
+(3, 2)
+(3,)
+sgd training time: 0.000093 seconds
+train acc: 0.134647, test acc: 0.164751
+gd training time: 0.000036 seconds
+train acc: 0.134647, test acc: 0.164751
+
+Blur smile data: 3 class classification
+(35000, 2)
+(3, 2)
+(35000, 3)
+(3, 3)
+(3, 2)
+(3,)
+sgd training time: 0.001416 seconds
+train acc: 0.141800, test acc: 0.145333
+gd training time: 0.000015 seconds
+train acc: 0.141800, test acc: 0.145333
+
+MNIST: 10 class classification
+(5000, 784)
+(10, 784)
+(5000, 785)
+(10, 785)
+(10, 784)
+(10,)
+sgd training time: 0.022246 seconds
+train acc: 0.100000, test acc: 0.100000
+gd training time: 0.000022 seconds
+train acc: 0.100000, test acc: 0.100000
+
